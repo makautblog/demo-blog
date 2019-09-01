@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Unofficial Blog from Department of Information Technology</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>A.I. Course Details</title>
+        
+          <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Sat, 01 Sep 2018 21:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/ai-course-details</link>
+        <guid isPermaLink="true">http://localhost:4000/ai-course-details</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Blockchain Technology Course Details</title>
+        
+          <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Sat, 01 Sep 2018 20:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/blockchain-technology</link>
+        <guid isPermaLink="true">http://localhost:4000/blockchain-technology</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>IoT Course Details</title>
+        
+          <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Sat, 01 Sep 2018 19:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/internet-of-things-course-details</link>
+        <guid isPermaLink="true">http://localhost:4000/internet-of-things-course-details</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Big Data Course Details</title>
+        
+          <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Sat, 01 Sep 2018 17:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/big-data-course-details</link>
+        <guid isPermaLink="true">http://localhost:4000/big-data-course-details</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Data Science Course Details</title>
+        
+          <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Sat, 01 Sep 2018 16:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/data-science-course-details</link>
+        <guid isPermaLink="true">http://localhost:4000/data-science-course-details</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Cyber Security Course Details</title>
+        
+          <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Sat, 01 Sep 2018 16:30:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/cysec-course-details</link>
+        <guid isPermaLink="true">http://localhost:4000/cysec-course-details</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Purpose of Education</title>
+        
+          <description>&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 12 Dec 1948 15:48:00 +0530</pubDate>
+        <link>
+        http://localhost:4000/the-purpose-of-education</link>
+        <guid isPermaLink="true">http://localhost:4000/the-purpose-of-education</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

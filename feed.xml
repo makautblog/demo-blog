@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/demo-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/demo-blog/" rel="alternate" type="text/html" /><updated>2019-09-01T18:38:44+05:30</updated><id>http://localhost:4000/demo-blog/</id><title type="html">Department of IT ⸺ MAKAUT</title><subtitle>Unofficial Blog from Department of Information Technology</subtitle><entry><title type="html">A.I. Course Details</title><link href="http://localhost:4000/demo-blog/ai-course-details" rel="alternate" type="text/html" title="A.I. Course Details" /><published>2018-09-01T21:30:00+05:30</published><updated>2018-09-01T21:30:00+05:30</updated><id>http://localhost:4000/demo-blog/ai-course-details</id><content type="html" xml:base="http://localhost:4000/demo-blog/ai-course-details">&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+&lt;p&gt;The course will cover basic ideas and techniques underlying the design of intelligent computer systems. Topics include Introduction to AI and intelligent agents Solving Problems by Searching, heuristic search techniques, constraint satisfaction problems, stochastic search methods.&lt;/p&gt;
+
+&lt;p&gt;Artificial Intelligence is a source of both enthusiasm and skepticism in different measures. As humans and machines are coming together now more than ever before, AI is no longer confined to innovation labs and is being appreciated and used because of its transformation capabilities.&lt;/p&gt;
+
+&lt;h3 id=&quot;basic-requirements-to-learn-ai&quot;&gt;Basic requirements to learn AI:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Stronghold on Mathematics.&lt;/li&gt;
+  &lt;li&gt;Strong experience of programming languages.&lt;/li&gt;
+  &lt;li&gt;Writing algorithm for finding patterns and learning.&lt;/li&gt;
+  &lt;li&gt;Strong data analytics skills.&lt;/li&gt;
+  &lt;li&gt;Good knowledge of  Discrete mathematics.&lt;/li&gt;
+  &lt;li&gt;Strong will to learn machine learning languages.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;job-areas-relating-to-this-course&quot;&gt;Job areas relating to this course:&lt;/h3&gt;
+
+&lt;p&gt;There are many job profiles and specializations for an artificial intelligence specialist. Following are few examples of these profiles: -&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Design artificial intelligence enabled products and services&lt;/li&gt;
+  &lt;li&gt;Explore real-world problems where artificial intelligence technology can be applied&lt;/li&gt;
+  &lt;li&gt;Evaluate various algorithms&lt;/li&gt;
+  &lt;li&gt;Specialized research to advance current technologies&lt;/li&gt;
+  &lt;li&gt;Industry-specific data mining and data analysis to create more value&lt;/li&gt;
+  &lt;li&gt;Software design and information architecture&lt;/li&gt;
+  &lt;li&gt;Professional/managed services&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Benefits of studying AI&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AI would have a low error rate compared to humans, if coded properly. They would have incredible precision, accuracy, and speed.&lt;/li&gt;
+  &lt;li&gt;They won’t be affected by hostile environments, thus able to complete dangerous tasks, explore in space, and endure problems that would injure or kill us.&lt;/li&gt;
+  &lt;li&gt;Replace humans in repetitive, tedious tasks and in many laborious places of work.&lt;/li&gt;
+  &lt;li&gt;Predict what a user will type, ask, search, and do. They can easily act as assistants and can recommend or direct various actions.&lt;/li&gt;
+  &lt;li&gt;Organized and manages records.&lt;/li&gt;
+  &lt;li&gt;Interact with humans for entertainment or a task as avatars or robots.&lt;/li&gt;
+  &lt;li&gt;They can think logically without emotions, making rational decisions with less or no mistakes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI for Agriculture&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In agriculture new AI advancements show improvements in gaining yield and to increase the research and development of growing crops. New artificial intelligence now predicts the time it takes for a crop like a tomato to be ripe and ready for picking thus increasing efficiency of farming. These advances go on including Crop and Soil Monitoring, Agricultural Robots, and Predictive Analytics. Crop and soil monitoring uses new algorithms and data collected on the field to manage and track the health of crops making it easier and more sustainable for the farmers.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI for Education&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One of the most exciting innovations is the idea of a personal AI tutor or assistant for each individual student. Because a single teacher can’t work with every student at once, AI tutors would allow for students to get extra, one-on-one help in areas of needed growth. AI tutors also eliminate the intimidating idea of tutor labs or human tutors which can cause anxiety and stress for some students.In future classrooms, ambient informatics can play a beneficial role. Ambient informatics is the idea that information is everywhere in the environment and that technologies automatically adjust to your personal preferences.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI in Health&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One of AI’s biggest potential benefits is to help people stay healthy so they don’t need a doctor, or at least not as often. The use of AI and the Internet of Medical Things (IoMT) in consumer health applications is already helping people.&lt;/li&gt;
+  &lt;li&gt;Technology applications and apps encourage healthier behaviour in individuals and help with the proactive management of a healthy lifestyle. It puts consumers in control of health and well-being.&lt;/li&gt;
+  &lt;li&gt;Additionally, AI increases the ability for healthcare professionals to better understand the day-to-day patterns and needs of the people they care for, and with that understanding they are able to provide better feedback, guidance and support for staying healthy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI in Business&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Artificial intelligence can be used to solve problems across the board. AI can help businesses increase sales, detect fraud, improve customer experience, automate work processes and provide predictive analysis. The retail business can map consumer behavior using AI.
+Eligibility: Students from Science background at the 11-12 level are eligible.&lt;/p&gt;</content><author><name>Dipanwita Ghosh</name></author><category term="ai" /><summary type="html">Introduction:</summary></entry><entry><title type="html">Blockchain Technology Course Details</title><link href="http://localhost:4000/demo-blog/blockchain-technology" rel="alternate" type="text/html" title="Blockchain Technology Course Details" /><published>2018-09-01T20:30:00+05:30</published><updated>2018-09-01T20:30:00+05:30</updated><id>http://localhost:4000/demo-blog/blockchain-technology</id><content type="html" xml:base="http://localhost:4000/demo-blog/blockchain-technology">&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+&lt;p&gt;The objective of this course is to provide conceptual understanding of how block chain technology can be used to innovate and improve business processes. The course covers the technological underpinning of block Chain operations in both theoretical and practical implementation of solutions using block Chain technology.&lt;/p&gt;
+
+&lt;h2 id=&quot;job&quot;&gt;Job:&lt;/h2&gt;
+
+&lt;p&gt;At the end of this course, the students will be able to: Understand block chain technology; Develop block chain based solutions and write smart contract using Hyperledger Fabric and Ethereum frameworks; Build and deploy block chain application for on premise and cloud based architecture; Integrate ideas from various domains and implement them using block chain technology in different perspectives.&lt;/p&gt;
+
+&lt;h2 id=&quot;eligibility&quot;&gt;Eligibility:&lt;/h2&gt;
+
+&lt;p&gt;Students from Science background at the 11-12 level are eligible.&lt;/p&gt;</content><author><name>Kamalika Banerjee</name></author><category term="block-chain" /><summary type="html">Introduction:</summary></entry><entry><title type="html">IoT Course Details</title><link href="http://localhost:4000/demo-blog/internet-of-things-course-details" rel="alternate" type="text/html" title="IoT Course Details" /><published>2018-09-01T19:30:00+05:30</published><updated>2018-09-01T19:30:00+05:30</updated><id>http://localhost:4000/demo-blog/internet-of-things-course-details</id><content type="html" xml:base="http://localhost:4000/demo-blog/internet-of-things-course-details">&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+&lt;p&gt;This course imparts firm foundation in computer science wireless communication and computer networks. It aims to train students with systematic professional knowledge and strong practical skills in the fields of computer technology, communications networks and IT that provides a wide range of applications in the Internet of Things. The programme equips students with strong skill for sensor network design and network planning for IoT.&lt;/p&gt;
+
+&lt;h2 id=&quot;job&quot;&gt;Job:&lt;/h2&gt;
+
+&lt;p&gt;This course aims to train students to be equipped with a solid theoretical foundation, systematic professional knowledge, strong practical skills in the fields of computer technology communications networks and IT that provides a wide range of applications in the Internet of Things. After the completion of this course, the students will be able to: Understand internet of Things and its hardware and software components; Interface I/O devices, sensors &amp;amp; communication modules; Remotely monitor data and control devices; Develop real life IoT based projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;eligibility&quot;&gt;Eligibility:&lt;/h2&gt;
+
+&lt;p&gt;Students from Science background at the 11-12 level are eligible.&lt;/p&gt;</content><author><name>Kamalika Banerjee</name></author><category term="iot" /><summary type="html">Introduction:</summary></entry><entry><title type="html">Big Data Course Details</title><link href="http://localhost:4000/demo-blog/big-data-course-details" rel="alternate" type="text/html" title="Big Data Course Details" /><published>2018-09-01T17:30:00+05:30</published><updated>2018-09-01T17:30:00+05:30</updated><id>http://localhost:4000/demo-blog/big-data-course-details</id><content type="html" xml:base="http://localhost:4000/demo-blog/big-data-course-details">&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+&lt;p&gt;Big Data Analytics is required to deal with the problems faced by industry today. The techniques and tools are used to solve problems from a wide variety of Industries such as manufacturing, services, retail, banking and finance, sports, pharmaceuticals, and aerospace etc. It is interdisciplinary and is required to analyse ever growing large data (growing by volume, velocity and variety) by applying techniques like data mining, machine learning, and deep learning from computer science, statistics and mathematics. Big Data Analytics is required to cope up with rapid changes in both, domain knowledge and technology. It is one of the fastest growing and most promising technologies.&lt;/p&gt;
+
+&lt;h2 id=&quot;job&quot;&gt;Job:&lt;/h2&gt;
+
+&lt;p&gt;Job areas relating to this course:
+These types of skill will help the students to become data scientists, data analysts and so on.&lt;/p&gt;
+
+&lt;h2 id=&quot;eligibility&quot;&gt;Eligibility:&lt;/h2&gt;
+
+&lt;p&gt;Eligibility: Students from Science and Commerce background at the 11-12 level are eligible.&lt;/p&gt;</content><author><name>Bappaditta</name></author><category term="Big-Data" /><summary type="html">Introduction:</summary></entry><entry><title type="html">Data Science Course Details</title><link href="http://localhost:4000/demo-blog/data-science-course-details" rel="alternate" type="text/html" title="Data Science Course Details" /><published>2018-09-01T16:30:00+05:30</published><updated>2018-09-01T16:30:00+05:30</updated><id>http://localhost:4000/demo-blog/data-science-course-details</id><content type="html" xml:base="http://localhost:4000/demo-blog/data-science-course-details">&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+&lt;p&gt;This course includes concepts from statistics, computer science, and software engineering. Students learn the necessary skills to manage and analyze data. They learn concepts such as exploratory data analysis, statistical inference and modeling, machine learning, and high dimensional data analysis.&lt;/p&gt;
+
+&lt;h2 id=&quot;job&quot;&gt;Job:&lt;/h2&gt;
+
+&lt;p&gt;Job areas relating to this course:
+The students will learn the necessary skill to develop data products including R programming, data wrangling and so on.&lt;/p&gt;
+
+&lt;h2 id=&quot;eligibility&quot;&gt;Eligibility:&lt;/h2&gt;
+
+&lt;p&gt;Students from Science background at the 11-12 level are eligible.&lt;/p&gt;</content><author><name>Bappaditta</name></author><category term="data-science" /><summary type="html">Introduction:</summary></entry><entry><title type="html">Cyber Security Course Details</title><link href="http://localhost:4000/demo-blog/cysec-course-details" rel="alternate" type="text/html" title="Cyber Security Course Details" /><published>2018-09-01T16:30:00+05:30</published><updated>2018-09-01T16:30:00+05:30</updated><id>http://localhost:4000/demo-blog/cysec-course-details</id><content type="html" xml:base="http://localhost:4000/demo-blog/cysec-course-details">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Cyber Security is the protection of internet-connected systems, including hardware, software and data, from cyber attacks. In a computing context, security comprises cyber security and physical security – both are used by enterprises to protect against unauthorized access to data centres and other computerized systems. Information security, which is designed to maintain the confidentiality, integrity and availability of data, is a subset of cyber security. The syllabus includes: Introduction to hacking, Foot printing &amp;amp; Reconnaissance, Scanning Networks, Enumeration, Malware Threats, Sniffing, Social Engineering, Denial Of Service, Session Hijacking, Hacking Web-Servers, Hacking Web Applications, SQL Injection, Hacking Wireless Networks, Hacking Mobile Platforms, Evading IDS, Firewalls &amp;amp; Honeypot, Cloud Computing, Cryptography.&lt;/p&gt;
+
+&lt;h3 id=&quot;jobs&quot;&gt;Jobs&lt;/h3&gt;
+
+&lt;p&gt;Job areas relating to this course:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;To prepare students with the technical knowledge and skills needed in jobs to protect and defend computer systems and networks.&lt;/li&gt;
+  &lt;li&gt;To develop graduates who can plan, implement, and monitor cyber security mechanisms to help ensure the protection of information technology assets.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;requirements&quot;&gt;Requirements&lt;/h3&gt;
+
+&lt;p&gt;Class 12 students with Science background are eligible.&lt;/p&gt;</content><author><name>Joy Samadder</name></author><category term="cyber-security" /><summary type="html">Introduction</summary></entry><entry><title type="html">The Purpose of Education</title><link href="http://localhost:4000/demo-blog/the-purpose-of-education" rel="alternate" type="text/html" title="The Purpose of Education" /><published>1948-12-12T15:48:00+05:30</published><updated>1948-12-12T15:48:00+05:30</updated><id>http://localhost:4000/demo-blog/the-purpose-of-education</id><content type="html" xml:base="http://localhost:4000/demo-blog/the-purpose-of-education">&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
+
+&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
+
+&lt;p&gt;Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult. We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
+
+&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
+
+&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
+
+&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
+
+&lt;p&gt;If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, “brethren!” Be careful, teachers!&lt;/p&gt;</content><author><name>martin</name></author><category term="speeches" /><summary type="html">As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</summary></entry></feed>
