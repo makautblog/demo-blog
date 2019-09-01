@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/demo-blog/tag/data-science/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/demo-blog/" rel="alternate" type="text/html" />
+  <updated>2019-09-01T18:38:44+05:30</updated>
+  <id>http://localhost:4000/demo-blog/tag/data-science/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Department of IT ⸺ MAKAUT | </title>
+  
+
+  
+    <subtitle>Unofficial Blog from Department of Information Technology</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Data Science Course Details</title>
+      <link href="http://localhost:4000/demo-blog/data-science-course-details" rel="alternate" type="text/html" title="Data Science Course Details" />
+      <published>2018-09-01T16:30:00+05:30</published>
+      <updated>2018-09-01T16:30:00+05:30</updated>
+      <id>http://localhost:4000/demo-blog/data-science-course-details</id>
+      <content type="html" xml:base="http://localhost:4000/demo-blog/data-science-course-details">&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+&lt;p&gt;This course includes concepts from statistics, computer science, and software engineering. Students learn the necessary skills to manage and analyze data. They learn concepts such as exploratory data analysis, statistical inference and modeling, machine learning, and high dimensional data analysis.&lt;/p&gt;
+
+&lt;h2 id=&quot;job&quot;&gt;Job:&lt;/h2&gt;
+
+&lt;p&gt;Job areas relating to this course:
+The students will learn the necessary skill to develop data products including R programming, data wrangling and so on.&lt;/p&gt;
+
+&lt;h2 id=&quot;eligibility&quot;&gt;Eligibility:&lt;/h2&gt;
+
+&lt;p&gt;Students from Science background at the 11-12 level are eligible.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bappaditta</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="data-science" />
+      
+
+      
+        <summary type="html">Introduction:</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

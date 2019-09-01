@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/demo-blog/tag/big-data/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/demo-blog/" rel="alternate" type="text/html" />
+  <updated>2019-09-01T18:38:44+05:30</updated>
+  <id>http://localhost:4000/demo-blog/tag/big-data/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Department of IT ⸺ MAKAUT | </title>
+  
+
+  
+    <subtitle>Unofficial Blog from Department of Information Technology</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Big Data Course Details</title>
+      <link href="http://localhost:4000/demo-blog/big-data-course-details" rel="alternate" type="text/html" title="Big Data Course Details" />
+      <published>2018-09-01T17:30:00+05:30</published>
+      <updated>2018-09-01T17:30:00+05:30</updated>
+      <id>http://localhost:4000/demo-blog/big-data-course-details</id>
+      <content type="html" xml:base="http://localhost:4000/demo-blog/big-data-course-details">&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+&lt;p&gt;Big Data Analytics is required to deal with the problems faced by industry today. The techniques and tools are used to solve problems from a wide variety of Industries such as manufacturing, services, retail, banking and finance, sports, pharmaceuticals, and aerospace etc. It is interdisciplinary and is required to analyse ever growing large data (growing by volume, velocity and variety) by applying techniques like data mining, machine learning, and deep learning from computer science, statistics and mathematics. Big Data Analytics is required to cope up with rapid changes in both, domain knowledge and technology. It is one of the fastest growing and most promising technologies.&lt;/p&gt;
+
+&lt;h2 id=&quot;job&quot;&gt;Job:&lt;/h2&gt;
+
+&lt;p&gt;Job areas relating to this course:
+These types of skill will help the students to become data scientists, data analysts and so on.&lt;/p&gt;
+
+&lt;h2 id=&quot;eligibility&quot;&gt;Eligibility:&lt;/h2&gt;
+
+&lt;p&gt;Eligibility: Students from Science and Commerce background at the 11-12 level are eligible.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bappaditta</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Big-Data" />
+      
+
+      
+        <summary type="html">Introduction:</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

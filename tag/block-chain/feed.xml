@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/demo-blog/tag/block-chain/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/demo-blog/" rel="alternate" type="text/html" />
+  <updated>2019-09-01T18:38:44+05:30</updated>
+  <id>http://localhost:4000/demo-blog/tag/block-chain/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Department of IT ⸺ MAKAUT | </title>
+  
+
+  
+    <subtitle>Unofficial Blog from Department of Information Technology</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Blockchain Technology Course Details</title>
+      <link href="http://localhost:4000/demo-blog/blockchain-technology" rel="alternate" type="text/html" title="Blockchain Technology Course Details" />
+      <published>2018-09-01T20:30:00+05:30</published>
+      <updated>2018-09-01T20:30:00+05:30</updated>
+      <id>http://localhost:4000/demo-blog/blockchain-technology</id>
+      <content type="html" xml:base="http://localhost:4000/demo-blog/blockchain-technology">&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+&lt;p&gt;The objective of this course is to provide conceptual understanding of how block chain technology can be used to innovate and improve business processes. The course covers the technological underpinning of block Chain operations in both theoretical and practical implementation of solutions using block Chain technology.&lt;/p&gt;
+
+&lt;h2 id=&quot;job&quot;&gt;Job:&lt;/h2&gt;
+
+&lt;p&gt;At the end of this course, the students will be able to: Understand block chain technology; Develop block chain based solutions and write smart contract using Hyperledger Fabric and Ethereum frameworks; Build and deploy block chain application for on premise and cloud based architecture; Integrate ideas from various domains and implement them using block chain technology in different perspectives.&lt;/p&gt;
+
+&lt;h2 id=&quot;eligibility&quot;&gt;Eligibility:&lt;/h2&gt;
+
+&lt;p&gt;Students from Science background at the 11-12 level are eligible.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kamalika Banerjee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="block-chain" />
+      
+
+      
+        <summary type="html">Introduction:</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

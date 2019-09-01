@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/demo-blog/tag/ai/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/demo-blog/" rel="alternate" type="text/html" />
+  <updated>2019-09-01T18:38:44+05:30</updated>
+  <id>http://localhost:4000/demo-blog/tag/ai/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Department of IT ⸺ MAKAUT | </title>
+  
+
+  
+    <subtitle>Unofficial Blog from Department of Information Technology</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">A.I. Course Details</title>
+      <link href="http://localhost:4000/demo-blog/ai-course-details" rel="alternate" type="text/html" title="A.I. Course Details" />
+      <published>2018-09-01T21:30:00+05:30</published>
+      <updated>2018-09-01T21:30:00+05:30</updated>
+      <id>http://localhost:4000/demo-blog/ai-course-details</id>
+      <content type="html" xml:base="http://localhost:4000/demo-blog/ai-course-details">&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+&lt;p&gt;The course will cover basic ideas and techniques underlying the design of intelligent computer systems. Topics include Introduction to AI and intelligent agents Solving Problems by Searching, heuristic search techniques, constraint satisfaction problems, stochastic search methods.&lt;/p&gt;
+
+&lt;p&gt;Artificial Intelligence is a source of both enthusiasm and skepticism in different measures. As humans and machines are coming together now more than ever before, AI is no longer confined to innovation labs and is being appreciated and used because of its transformation capabilities.&lt;/p&gt;
+
+&lt;h3 id=&quot;basic-requirements-to-learn-ai&quot;&gt;Basic requirements to learn AI:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Stronghold on Mathematics.&lt;/li&gt;
+  &lt;li&gt;Strong experience of programming languages.&lt;/li&gt;
+  &lt;li&gt;Writing algorithm for finding patterns and learning.&lt;/li&gt;
+  &lt;li&gt;Strong data analytics skills.&lt;/li&gt;
+  &lt;li&gt;Good knowledge of  Discrete mathematics.&lt;/li&gt;
+  &lt;li&gt;Strong will to learn machine learning languages.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;job-areas-relating-to-this-course&quot;&gt;Job areas relating to this course:&lt;/h3&gt;
+
+&lt;p&gt;There are many job profiles and specializations for an artificial intelligence specialist. Following are few examples of these profiles: -&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Design artificial intelligence enabled products and services&lt;/li&gt;
+  &lt;li&gt;Explore real-world problems where artificial intelligence technology can be applied&lt;/li&gt;
+  &lt;li&gt;Evaluate various algorithms&lt;/li&gt;
+  &lt;li&gt;Specialized research to advance current technologies&lt;/li&gt;
+  &lt;li&gt;Industry-specific data mining and data analysis to create more value&lt;/li&gt;
+  &lt;li&gt;Software design and information architecture&lt;/li&gt;
+  &lt;li&gt;Professional/managed services&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Benefits of studying AI&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AI would have a low error rate compared to humans, if coded properly. They would have incredible precision, accuracy, and speed.&lt;/li&gt;
+  &lt;li&gt;They won’t be affected by hostile environments, thus able to complete dangerous tasks, explore in space, and endure problems that would injure or kill us.&lt;/li&gt;
+  &lt;li&gt;Replace humans in repetitive, tedious tasks and in many laborious places of work.&lt;/li&gt;
+  &lt;li&gt;Predict what a user will type, ask, search, and do. They can easily act as assistants and can recommend or direct various actions.&lt;/li&gt;
+  &lt;li&gt;Organized and manages records.&lt;/li&gt;
+  &lt;li&gt;Interact with humans for entertainment or a task as avatars or robots.&lt;/li&gt;
+  &lt;li&gt;They can think logically without emotions, making rational decisions with less or no mistakes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI for Agriculture&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In agriculture new AI advancements show improvements in gaining yield and to increase the research and development of growing crops. New artificial intelligence now predicts the time it takes for a crop like a tomato to be ripe and ready for picking thus increasing efficiency of farming. These advances go on including Crop and Soil Monitoring, Agricultural Robots, and Predictive Analytics. Crop and soil monitoring uses new algorithms and data collected on the field to manage and track the health of crops making it easier and more sustainable for the farmers.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI for Education&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One of the most exciting innovations is the idea of a personal AI tutor or assistant for each individual student. Because a single teacher can’t work with every student at once, AI tutors would allow for students to get extra, one-on-one help in areas of needed growth. AI tutors also eliminate the intimidating idea of tutor labs or human tutors which can cause anxiety and stress for some students.In future classrooms, ambient informatics can play a beneficial role. Ambient informatics is the idea that information is everywhere in the environment and that technologies automatically adjust to your personal preferences.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI in Health&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One of AI’s biggest potential benefits is to help people stay healthy so they don’t need a doctor, or at least not as often. The use of AI and the Internet of Medical Things (IoMT) in consumer health applications is already helping people.&lt;/li&gt;
+  &lt;li&gt;Technology applications and apps encourage healthier behaviour in individuals and help with the proactive management of a healthy lifestyle. It puts consumers in control of health and well-being.&lt;/li&gt;
+  &lt;li&gt;Additionally, AI increases the ability for healthcare professionals to better understand the day-to-day patterns and needs of the people they care for, and with that understanding they are able to provide better feedback, guidance and support for staying healthy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;AI in Business&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Artificial intelligence can be used to solve problems across the board. AI can help businesses increase sales, detect fraud, improve customer experience, automate work processes and provide predictive analysis. The retail business can map consumer behavior using AI.
+Eligibility: Students from Science background at the 11-12 level are eligible.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Dipanwita Ghosh</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="ai" />
+      
+
+      
+        <summary type="html">Introduction:</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

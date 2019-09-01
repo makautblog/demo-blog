@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/demo-blog/tag/cyber-security/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/demo-blog/" rel="alternate" type="text/html" />
+  <updated>2019-09-01T18:38:44+05:30</updated>
+  <id>http://localhost:4000/demo-blog/tag/cyber-security/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Department of IT ⸺ MAKAUT | </title>
+  
+
+  
+    <subtitle>Unofficial Blog from Department of Information Technology</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Cyber Security Course Details</title>
+      <link href="http://localhost:4000/demo-blog/cysec-course-details" rel="alternate" type="text/html" title="Cyber Security Course Details" />
+      <published>2018-09-01T16:30:00+05:30</published>
+      <updated>2018-09-01T16:30:00+05:30</updated>
+      <id>http://localhost:4000/demo-blog/cysec-course-details</id>
+      <content type="html" xml:base="http://localhost:4000/demo-blog/cysec-course-details">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Cyber Security is the protection of internet-connected systems, including hardware, software and data, from cyber attacks. In a computing context, security comprises cyber security and physical security – both are used by enterprises to protect against unauthorized access to data centres and other computerized systems. Information security, which is designed to maintain the confidentiality, integrity and availability of data, is a subset of cyber security. The syllabus includes: Introduction to hacking, Foot printing &amp;amp; Reconnaissance, Scanning Networks, Enumeration, Malware Threats, Sniffing, Social Engineering, Denial Of Service, Session Hijacking, Hacking Web-Servers, Hacking Web Applications, SQL Injection, Hacking Wireless Networks, Hacking Mobile Platforms, Evading IDS, Firewalls &amp;amp; Honeypot, Cloud Computing, Cryptography.&lt;/p&gt;
+
+&lt;h3 id=&quot;jobs&quot;&gt;Jobs&lt;/h3&gt;
+
+&lt;p&gt;Job areas relating to this course:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;To prepare students with the technical knowledge and skills needed in jobs to protect and defend computer systems and networks.&lt;/li&gt;
+  &lt;li&gt;To develop graduates who can plan, implement, and monitor cyber security mechanisms to help ensure the protection of information technology assets.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;requirements&quot;&gt;Requirements&lt;/h3&gt;
+
+&lt;p&gt;Class 12 students with Science background are eligible.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Joy Samadder</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="cyber-security" />
+      
+
+      
+        <summary type="html">Introduction</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

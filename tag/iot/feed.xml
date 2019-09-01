@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/demo-blog/tag/iot/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/demo-blog/" rel="alternate" type="text/html" />
+  <updated>2019-09-01T18:38:44+05:30</updated>
+  <id>http://localhost:4000/demo-blog/tag/iot/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Department of IT ⸺ MAKAUT | </title>
+  
+
+  
+    <subtitle>Unofficial Blog from Department of Information Technology</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">IoT Course Details</title>
+      <link href="http://localhost:4000/demo-blog/internet-of-things-course-details" rel="alternate" type="text/html" title="IoT Course Details" />
+      <published>2018-09-01T19:30:00+05:30</published>
+      <updated>2018-09-01T19:30:00+05:30</updated>
+      <id>http://localhost:4000/demo-blog/internet-of-things-course-details</id>
+      <content type="html" xml:base="http://localhost:4000/demo-blog/internet-of-things-course-details">&lt;h2 id=&quot;introduction&quot;&gt;Introduction:&lt;/h2&gt;
+
+&lt;p&gt;This course imparts firm foundation in computer science wireless communication and computer networks. It aims to train students with systematic professional knowledge and strong practical skills in the fields of computer technology, communications networks and IT that provides a wide range of applications in the Internet of Things. The programme equips students with strong skill for sensor network design and network planning for IoT.&lt;/p&gt;
+
+&lt;h2 id=&quot;job&quot;&gt;Job:&lt;/h2&gt;
+
+&lt;p&gt;This course aims to train students to be equipped with a solid theoretical foundation, systematic professional knowledge, strong practical skills in the fields of computer technology communications networks and IT that provides a wide range of applications in the Internet of Things. After the completion of this course, the students will be able to: Understand internet of Things and its hardware and software components; Interface I/O devices, sensors &amp;amp; communication modules; Remotely monitor data and control devices; Develop real life IoT based projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;eligibility&quot;&gt;Eligibility:&lt;/h2&gt;
+
+&lt;p&gt;Students from Science background at the 11-12 level are eligible.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kamalika Banerjee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="iot" />
+      
+
+      
+        <summary type="html">Introduction:</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
