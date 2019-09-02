@@ -1,2 +1,0 @@
-# demo-blog
-Web blog
