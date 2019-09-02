@@ -1824,7 +1824,7 @@ body {
 
 .floating-header-logo {
 	overflow: hidden;
-	margin: 0 0 0 20px;
+	margin: 5px 15px 5px 10px;
 	font-size: 1.6rem;
 	line-height: 1em;
 	letter-spacing: -1px;
@@ -1847,8 +1847,7 @@ body {
 }
 
 .floating-header-logo img {
-	margin: 0 10px 0 0;
-	max-height: 20px
+	max-height: 40px
 }
 
 .floating-header-divider {
